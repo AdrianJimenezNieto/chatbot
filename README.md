@@ -1,5 +1,9 @@
 # (ES) Instalación del Chatbot
 
+Chatbor personalizable para cualquier cosa, con síntesis de voz en español, para personalizarlo añadir más campos a `intents.json`
+
+### Instalación
+
 Para instalar y ejecutar el chatbot, sigue estos pasos desde la línea de comandos:
 
 **Instala las dependencias**
@@ -11,7 +15,11 @@ Para instalar y ejecutar el chatbot, sigue estos pasos desde la línea de comand
 **Corre la app**
 `python app.py`
 
-## (EN) Chatbot Installation
+## (EN) Chatbot
+
+Customizable chatbot for anything, with Spanish speech synthesis. To customize it, add more fields to `intents.json`
+
+### Instalation
 
 To install and run the chatbot, follow these steps from the command line:
 
