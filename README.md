@@ -1,6 +1,6 @@
 ## (ES) Chatbot
 
-Chatbor personalizable para cualquier cosa, con síntesis de voz en español, para personalizarlo añadir más campos a `intents.json`
+Chatbor personalizable para cualquier cosa, con síntesis de voz en español, para personalizarlo añadir más campos a `intents.json` y reentrenar el modelo mediante el script `training.py`
 
 ### Instalación
 
@@ -17,7 +17,7 @@ Para instalar y ejecutar el chatbot, sigue estos pasos desde la línea de comand
 
 ## (EN) Chatbot
 
-Customizable chatbot for anything, with Spanish speech synthesis. To customize it, add more fields to `intents.json`
+Customizable chatbot for anything, with Spanish speech synthesis. To customize it, add more fields to `intents.json` and retrain the model with the script `training.py`
 
 ### Instalation
 
