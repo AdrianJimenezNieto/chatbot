@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ChatBot</title>
+  <link rel="stylesheet" href="../static/css/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;0,600;1,400&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="chat-container">
+    <div class="chat-box" id="chat-box"></div>
+    <div class="chat-footer">
+      <input type="text" id="user-input" placeholder="Escribe aquí..." autocomplete="off" onkeypress="enviarConEnter(event)">
+      <button onclick="enviarMensaje()">Enviar</button>
+    </div>
+</div>
+  <script type="text/javascript" src="../static/app.js"></script>
+</body>
+</html>

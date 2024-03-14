@@ -1,0 +1,37 @@
+{"intents":[
+  {
+    "tag": "saludos",
+    "patterns": ["hola", "que tal", "buenos dias", "buenas tardes", "como estas", "muy buenas", "buenas", "saludos"],
+    "responses": ["¡Hola! ¿En qué puedo ayudarte?", "Hola, ¿qué puedo hacer por ti?", "Hola, un placer atenderle. ¿En qué puedo serle útil?", "Muy buenas, encantado de estar aquí para ayudarte. ¿En qué puedo orientarte?"]
+  },
+  {
+    "tag": "despedida",
+    "patterns": ["adiós", "hasta luego", "bye", "hasta la proxima", "que tengas un buen dia"],
+    "responses": ["¡Hasta luego! Que tengas un buen día.","¡Que tengas un buen día! Estoy aquí si necesitas algo más.","¡Gracias por tu tiempo! Siempre puedes regresar si necesitas ayuda.", "¡Agradecemos tu interés! No dudes en volver si tienes más preguntas."]
+  },
+  {
+    "tag": "garantia",
+    "patterns": ["plazo de garantía", "garantía de productos", "cual es la garantía?", "qué garantia ofreceís", "cuál es el plazo de soporte", "durante cuanto tiempo corregis errores"],
+    "responses": ["Nuestro plazo de garantía es de 12 meses para todos nuestros productos.", "Dispones de una garantía de 12 meses para nuestros servicios.", "El plazo de soporte o garantía es de 1 año, aunque ¡estamos seguros de que quedará satisfecho!", "Todos nuestros productos cuentan con 12 meses de garantía, estaremos ahí para lo que necesites."]
+  },
+  {
+    "tag": "tiempo_puesta_marcha",
+    "patterns": ["plazo de puesta en marcha", "tiempo de implementación", "cuanto tarda el servicio en ponerse en marcha", "cuanto tardais en ponerlo en marcha", "cual es el tiempo de actuacion", "cuanto tardaria en tener vuestro servicio", "es el servicio instantaneo", "tiempo desde que lo compro hasta que lo tengo", "cuanto se tarda en poner en marcha el servicio"],
+    "responses": ["El plazo de puesta en marcha del servicio es de 6 meses.", "Tardamos unos 6 meses en poner en marcha el servicio", "El proceso de puesta en marcha se demora 6 meses.", "Tardaremos un máximo de 6 meses en tener listo su servicio."]
+  },
+  {
+    "tag": "precio_servicio",
+    "patterns": ["precio del servicio", "costo mensual", "cuanto cuesta el servicio", "cual es el precio del servicio", "necesitaría informacion sobre los precios", "cual es el costo del servicio"],
+    "responses": ["El precio del servicio es de 30€ mensuales.", "El precio de nuestro servicio es de 30 euros por mes.","Nuestro servicio tiene un costo de 30 euros mensuales.", "El servicio se ofrece a un precio fijo de 30 euros al mes."]
+  },
+  {
+    "tag": "experiencia_empresa",
+    "patterns": ["años de experiencia", "experiencia de la empresa", "que experiencia teneis", "puedo depositar mi confianza en vosotroos?"],
+    "responses": ["Tenemos más de 25 años de experiencia en el mercado.", "Tenemos más de 25 años en esto.", "Llevamos más de 25 años en el negocio."]
+  },
+  {
+    "tag": "incidencia",
+    "patterns": ["no es la respuesta que esperaba", "tengo una incidencia con el servicio", "mi producto no funciona bien", "querria hablar con un agente", "quiero atencion humana", "no es lo que te he preguntado"],
+    "responses": ["Lamento escuchar eso, nuestro equipo de antención al cliente se pondrá en contacto con usted a la máxima brevedad.", "Siento no haber sido de ayuda, nuestro equipo se pondrá en conctacto con usted.", "Lo siento, si quiere hablar con un agente, le llamaremos encantados."]
+  }
+]}
