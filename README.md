@@ -15,6 +15,9 @@ Para instalar y ejecutar el chatbot, sigue estos pasos desde la línea de comand
 **Corre la app**
 `python app.py`
 
+- Vídeo de explicación de código: https://youtu.be/ZGydiQeYqvA?si=DCqf0cDqWbYGom6c
+- Vídeo de los resultados del chatbot: https://youtu.be/Es3x4KRF-Ic?si=rmxm_dQBjcdrU_Tl
+
 ## (EN) Chatbot
 
 Customizable chatbot for anything, with Spanish speech synthesis. To customize it, add more fields to `intents.json` and retrain the model with the script `training.py`
