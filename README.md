@@ -1,4 +1,4 @@
-# (ES) Instalación del Chatbot
+## (ES) Chatbot
 
 Chatbor personalizable para cualquier cosa, con síntesis de voz en español, para personalizarlo añadir más campos a `intents.json`
 
